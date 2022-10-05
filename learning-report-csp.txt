@@ -6,11 +6,11 @@ Date: Oct 05, 2022 - Wednesday
 By: Raja CSP Raman
 
 Tech: 
-1. Flask basics
-2. GET, POST methods
-3. postgres crud
-4. json basics
-5. json crud
+1. learned Flask basics and explored Flask for 2 hours
+2. Explored GET, POST methods in Flask 
+3. Learned postgres crud with Python
+4. Learned json basics for 20 minutes
+5. Learned json crud for 30 minutes
 
 Positivity:
 1. I felt so happy that I could stretch out for 6 hours in one shot and learn things as much as possible
@@ -23,21 +23,14 @@ Date: Oct 06, 2022 - Thursday
 By: Raja CSP Raman
 
 Tech: 
-1. Beautifulsoup basics
-2. sqlite crud
-3. postgres crud
-4. json basics
-5. json crud
+1. Explored Beautifulsoup basics for 1 hr
+2. Learned sqlite crud for 2 hours
+3. Learned postgres crud with SQLAlchemmy for 1 hr
+4. Learned JSON basics for 30 minutes
 
 Positivity:
-1. I felt so happy that I could stretch out for 6 hours in one shot and learn things as much as possible
-2. I felt excited to learn more on these topics
-
-
-
-
-
-
+1. Felt good on learning Flask topics
+2. Making myself addicted to Tech learning and it gives me some confident that I can get a job quickly.
 
 ----------------------------------------------------------------
 
