@@ -6,15 +6,15 @@ Date: Oct 05, 2022 - Wednesday
 By: Raja CSP Raman
 
 Tech: 
-1. Line 1
-2. Line 2
-3. Line 3
-4. Line 4
-5. Line 5
+1. Flask basics
+2. GET, POST methods
+3. postgres crud
+4. json basics
+5. json crud
 
 Positivity:
 1. I felt so happy that I could stretch out for 6 hours in one shot and learn things as much as possible
-2. TBD
+2. It was fun to learn very interesting and new topics. 
 ----------------------------------------------------------------
 
 Learning Report - 2:
@@ -23,15 +23,15 @@ Date: Oct 06, 2022 - Thursday
 By: Raja CSP Raman
 
 Tech: 
-1. Line 1
-2. Line 2
-3. Line 3
-4. Line 4
-5. Line 5
+1. Beautifulsoup basics
+2. sqlite crud
+3. postgres crud
+4. json basics
+5. json crud
 
 Positivity:
 1. I felt so happy that I could stretch out for 6 hours in one shot and learn things as much as possible
-2. TBD
+2. I felt excited to learn more on these topics
 
 
 
